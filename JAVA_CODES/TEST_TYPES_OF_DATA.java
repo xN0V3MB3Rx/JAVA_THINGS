@@ -2,7 +2,7 @@ class TEST_TYPES_OF_DATA{
 
     static public void main(String args[]){
         int iNum = 10;
-        byte bNum = 0;
+        //byte bNum = 0;
         double dNum = 2.45;
         char cChar = '@';
         Boolean bYesNo = true;
